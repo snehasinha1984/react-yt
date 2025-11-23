@@ -1,0 +1,19 @@
+Login 
+
+snehasinha1984
+workwithsnehasinha@gmail.com
+snehasinha@22
+
+
+
+
+For updated file uplaod steps
+
+git status
+git add .
+git commit -m "Added new feature to React project"
+git push
+
+
+
+
